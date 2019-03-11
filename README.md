@@ -4,7 +4,7 @@ A place for FAC16 to document ideas and thoughts for student projects (Weeks 10 
 
 ## Contributing
 
-Every member of FAC15 is encouraged to contribute an issue, although you are not required to.
+Every member of FAC16 is encouraged to contribute an issue, although you are not required to.
 
 Please contribute by opening an issue and using the 'Student Project Idea' template.
 
